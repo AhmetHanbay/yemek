@@ -1,0 +1,108 @@
+[
+    {
+        "id" : "0",
+        "title" : "Arap Tava",
+        "description" : "Ramazan ve davet sofralarında misafirlerinize gururla ikram edebileceğiniz Arap tava, hem doyurucu hem hazırlaması kolay bir ana yemek. Sadece 1 tepside birleştirip fırına verin; yanına nefis pilavlarımızdan pişirmeyi unutmayın.",
+        "price" : 75,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2021/10/04/kiymali-firin-yemegi-tarifi-arap-tava.jpg" 
+    },
+    {
+        "id" : "1",
+        "title" : "Sodalı Köfte",
+        "description" : "Havalar soğuyunca pikniğe ara veriyoruz; fakat bu mangal tadından mahrum kalmamızı gerektirmiyor... Tam anlamıyla isli dumanlı aromaya sahip içi sulu sulu, puf puf sodalı köfte tarifi püf noktalarıyla listemizde!",
+        "price" : 80,
+        "imageUrl" : "https://cdn.ye-mek.net/App_UI/Img/out/650/2022/04/sodali-kofte-resimli-yemek-tarifi(12).jpg?w=650&h=487" 
+    },
+    
+    {
+        "id" : "2",
+        "title" : "Köri Soslu Kremalı Mantarlı Tavuk ",
+        "description" : "Tavuk restoran zincirlerinde yüksek fiyatlar karşılığı yemektense mis gibi kendi mutfağınızda hazırlayabileceğiniz köri soslu kremalı mantarlı tavuk bu yıl binlerce kez alkış topladı! Lokum gibi pişen tavukların tam tadında krema sosuyla buluşması bu tarifte sizleri bekliyor.",
+        "price" : 50,
+        "imageUrl" : "https://www.misssgibi.com/media/scaled/2020/03/29/korili-tavuk-thumb-3-1x1-w1600_NR8erWB.jpg" 
+    },
+    {
+        "id" : "3",
+        "title" : "Tekirdağ Köftesi",
+        "description" : "1 gece önceden hazırlanan köfte harcının enfes bir lezzete dönüşmesine şahit olacağınız Tekirdağ köftesi tarifi, 2022'nin yıldızları arasında yerini aldı! Yanında orijinal piyaz tarifiyle ziyafete dönüşen tarifi kaçırmayın deriz.",
+        "price" : 60,
+        "imageUrl" : "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/tekirdag-kofte.webp" 
+    },
+    {
+        "id" : "4",
+        "title" : "Patates Oturtma",
+        "description" : "İddia ediyoruz, patatesi daha önce hiç bu kadar lezzetli görmediniz! Alışıldık malzemeleri bambaşka tariflere dönüştüren mutfağımızda patates oturtma 2022'de çok beğenildi. Patates tabanında beşamel soslu kıymalı harç sizi çağırıyor!",
+        "price" : 50,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2021/04/16/patates-oturtma-nasil-yapilir-7.jpg" 
+    },
+    {
+        "id" : "5",
+        "title" : "Kaşarlı Tas Kebabı",
+        "description" : "Ramazan ayında beğeni kazanan kaşarlı tas kebabı, sebze ve parça etin buluştuğu sunumu kolay, porsiyonluk ve göz alıcı bir tarif. Adım adım resimli yapılış aşamalarıyla tas kebabını bir de böyle deneyin, kaçırmayın!",
+        "price" : 50,
+        "imageUrl" : "https://i.pinimg.com/736x/f9/6d/67/f96d67886a9cc8a3151712ccedf60a2c.jpg" 
+    },
+    {
+        "id" : "6",
+        "title" : "Tavuk Göğsü",
+        "description" : "2022'nin en beğenilen tavuk yemekleri arasında fırında kremalı patatesli tavuk göğsü, özellikle çocukların severek yiyeceği iştah açan bir ana yemek. Patates ve tavukları dilediğiniz sebzeyle harmanlayıp fırına verebilirsiniz.",
+        "price" : 85,
+        "imageUrl" : "https://cdn.ye-mek.net/App_UI/Img/out/650/2021/07/tavuk-gogsu-kizartmasi-resimli-yemek-tarifi(11).jpg" 
+    },
+    {
+        "id" : "7",
+        "title" : "Hasanpaşa Köfte",
+        "description" : "Hasanpaşa köfteyi orijinal ve her denemede aynı lezzeti veren tarifiyle denemeye hazır mısınız? 2022'nin en popüler köfte tarifleri arasına giren Hasanpaşa köfte, et ve patatesin muhteşem uyumuyla sizi bekliyor.",
+        "price" : 75,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2020/04/27/hasanpasa-kofte.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : "Patatesli Sulu Köfte",
+        "description" : "Sulu ev yemeklerinin en eğlencelilerinden patatesli sulu köfteyi, orijinal tarifinden denemenizi tavsiye ediyoruz. Birebir denenmiş, takipçilerimizin beğenisini toplamış patatesli sulu köfte dağılmadan nasıl pişirilir, işte yanıtı!",
+        "price" : 75,
+        "imageUrl" : "https://img.lezizyemeklerim.com/tarif/17054/patatesli-sulu-kofte-nasil-yapilir_ce715bd076c8d03123435b11396fa2ba/640x467.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : "Fırın Karnabahar",
+        "description" : "Haşlamakla vakit kaybetmeden lezzetli bir karnabahar nasıl yapılabilir? İşte bu tarifle! Mevsiminde ekonomik ve vitaminli karnabaharları bol bol değerlendirebileceğiniz lokum kıvamında bu formülü 2022'de deneyenler çok beğendi...",
+        "price" : 75,
+        "imageUrl" : "https://www.kevserinmutfagi.com/wp-content/uploads/2011/12/firinda_kiymali_karnabahar11-600x450.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : "Zeytinyağlı Patlıcan Yemeği",
+        "description" : "Patlıcanı bir de zeytinyağlı deneyin; yaz aylarında favoriniz olacağına söz veriyoruz! Hafif, besleyici ve pratik ana yemek tarifi arayanların defterine çoktan eklediği zeytinyağlı patlıcan yemeği sizin de mutfağınızda konuk olmaya hazır.",
+        "price" : 75,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2021/11/10/zeytinyagli-patlican-yemegi-yapimi-6.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : "Taco",
+        "description" : "Meksika mutfağının ikonikleşen ana yemeği tacoyu bir de bizim tarifimizle deneyin, sonuca bayılacaksınız! Hazır lavaş ekmeği arasında tavuklu muhteşem harç, ardından doğru fırına! Çıtır ve eğlenceli bir yemek sizi bekliyor.",
+        "price" : 75,
+        "imageUrl" : "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/12/taco-sevgililer-gunu-gorsel.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : " Sebzeli Kağıt Kebabı ",
+        "description" : "Kendi mutfağımda şöyle şık sunumlu, porsiyonluk pişirebileceğim davet yemeği arıyorum, diyenler hemen toplanın! Lokum gibi yumuşacık kıvamıyla ağızda dağılan et ve sebzelerin dans ettiği kağıt kebabı 2022'ye damga vuran ana yemeklerimizden.",
+        "price" : 75,
+        "imageUrl" : "https://i.ytimg.com/vi/dqk42cL81zg/maxresdefault.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : "Nohut Yemeği",
+        "description" : "Nohut yemeğinizin daha hızlı pişmesi için düdüklü tencerede de pişirebilirsiniz.Nohut yemeğinizi etsiz yapabileceğiniz gibi etli, kıymalı da yapabilirsiniz.",
+        "price" : 75,
+        "imageUrl" : "https://i.lezzet.com.tr/images-xxlarge/nohut-yemegi-620c3ece-e046-44da-b008-dc3ebf38c007" 
+    },
+    {
+        "id" : "8",
+        "title" : "Karnıyarık",
+        "description" : "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır.",
+        "price" : 75,
+        "imageUrl" : "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/frnda-karnyark-313.webp" 
+    },
+]

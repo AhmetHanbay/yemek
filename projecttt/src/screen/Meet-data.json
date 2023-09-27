@@ -1,0 +1,66 @@
+[
+    {
+        "id" : "0",
+        "title" : "Kıymalı Mantar Dolması",
+        "description" : "Domatesli biberli kıymalı harç ile buluşan fırınlanmış mantar çanakları, protein deposu olarak ara sıcaklarınız arasında yerini almaya hazır.",
+        "price" : 75,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2019/04/02/kiymali-mantar-dolmasi-1.jpg" 
+    },
+    {
+        "id" : "1",
+        "title" : "Pastırmalı Humus",
+        "description" : "Hemencecik hazırlayabileceğiniz, çok pratik bir tarif. İştah açan görünümü ve pastırmalı aromasıyla tüm sevdiklerinizi mutlu etmeye yetecek humus tabakları sizleri bekliyor.",
+        "price" : 80,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2023/01/11/pastirmali-humus-nasil-yapilir-1.jpg" 
+    },
+    
+    {
+        "id" : "2",
+        "title" : "Mücver",
+        "description" : "Kabak tariflerinin belki de en gözdesi taze taze kızarmış mücver, öyle değil mi? Maydanoz, kabak ve peynirle hazırlayacağınız yumurtalı harç ile keyifli öğünler sizi bekliyor.",
+        "price" : 50,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2019/05/15/mucver-nasil-yapilir-firinda-kabak-mucver-tarifi.jpg" 
+    },
+    {
+        "id" : "3",
+        "title" : "Kaşarlı Patates Kroket",
+        "description" : "Patates kızartmasının farklı bir versiyonu olan kroket ile haşlanmış patateslerle rendelenmiş kaşarlarınızı sıcacık lokmalara kolayca dönüştürebilirsiniz.",
+        "price" : 60,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2018/09/28/kasarli-patates-kroket-600x400.jpg" 
+    },
+    {
+        "id" : "4",
+        "title" : "Paçanga Böreği",
+        "description" : "Türk damak tadına belki de en uygun börekler arasında başı çeken paçanga böreği, buram buram pastırma lezzetiyle sofralarınızda yer edinmeye çoktan hazır.",
+        "price" : 50,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2020/09/14/pacanga-boregi-7.jpeg" 
+    },
+    {
+        "id" : "5",
+        "title" : "Fırında Sigara Böreği",
+        "description" : "Sigarayı savunmuyoruz elbette ama hazırlayabileceğiniz en pratik börek tarifini vermekten de çekinmiyoruz. Kolay ve lezzetli çıtır sigara böreğinin fırında pişen tarifi hemen burada!",
+        "price" : 50,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2021/02/04/yumusak-firinda-sigara-boregi.jpg" 
+    },
+    {
+        "id" : "6",
+        "title" : "Kaşarlı Mantar",
+        "description" : "Tereyağlı ve kaşarlı enfes mantarlar, fırınlandığında kaşar örtüsü altında kayboluyor ve adeta bir lezzet bombasına dönüşüyor, tarif için linke tıklayın.",
+        "price" : 85,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2020/05/30/pratik-tavada-kasarli-mantar.jpg" 
+    },
+    {
+        "id" : "7",
+        "title" : "Biber Dolması",
+        "description" : "Zeytinyağı ile hoş bir tat kazandırabileceğiniz biber dolmaları leziz harcı ile iştah açıcı bir hal alıyor. Aşamalı fotoğrafları sizlere rehberlik edecek.",
+        "price" : 75,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2018/05/23/biber-dolmasi-tarifi-11.jpg" 
+    },
+    {
+        "id" : "8",
+        "title" : "Kuru Patlıcan Dolması",
+        "description" : "Antep mutfağının meşhur kuru dolmalarından olan patlıcan dolmasının lezzetini bilen bilir :) Bilmeyenler için açıklamalı tarifimiz sizleri bekliyor.",
+        "price" : 75,
+        "imageUrl" : "https://i.nefisyemektarifleri.com/2020/03/27/kuru-patlican-dolmasi-10.jpg" 
+    },
+]

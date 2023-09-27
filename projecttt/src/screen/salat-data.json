@@ -1,0 +1,45 @@
+[
+    {
+        "id" : "0",
+        "title" : "Yıldız Şehriye Salatası",
+        "description" : "Şehriye salatası sevenler bugünkü iftarın şirin mi şirin görünen tarifi yıldız şehriye salatası olsun. Kornişon turşu, mısır, kırmızı biber doğrayarak hazırlayabileceğiniz bu tarifi dilediğiniz gibi zenginleştirmesi size kalmış!",
+        "price" : 50,
+        "imageUrl" : "https://i.ytimg.com/vi/dAgxhQDuQPo/hqdefault.jpg" 
+    },
+    {
+        "id" : "1",
+        "title" : "Kabak Salatası ",
+        "description" : "Kabak yoğurtlamasının kızartılarak yapılan tarifi gayet lezzetli olsa da iftar için hazırlanacak daha hafif bir tarife yer veriyoruz. Sotelenen rende kabakların yoğurtla buluştuğu hem çok hafif hem de enfes tarifi, kabak salatası bu ramazan mutlaka denemelisiniz.",
+        "price" : 50,
+        "imageUrl" : "https://i.lezzet.com.tr/images-xxlarge-recipe/cevizli_kabak_salatasi-0434695b-a132-44eb-ab7c-5e91a6cf08b1.jpg" 
+    },
+    
+    {
+        "id" : "2",
+        "title" : "Gavurdağı Salatası  ",
+        "description" : "Türk mutfağının enfes lezzeti Gavurdağı salatası iftarın en iştah açıcı yanı olmaya geliyor. 10 dakikada hazırlayıp sofraya taşıyabileceğiniz salatanız deneyen herkesten güzel yorumlar alacak şimdiden söylemesi!",
+        "price" : 50,
+        "imageUrl" : "https://cdn.yemek.com/mnresize/1250/833/uploads/2014/10/gavurdagi-salatasi-yeni-one-cikan.jpg" 
+    },
+    {
+        "id" : "3",
+        "title" : "Mor Lahana Salatası",
+        "description" : "Sirke ile ovarak hazırlandığı için yiyenlere sanki turşu tadı veren bir salata tarifi var: Mor lahana salatası! Hızlıca doğrayarak iftara 10 dakika kala bile hazır edebilirsiniz. Yapımının detayları için buraya buyurun!",
+        "price" : 50,
+        "imageUrl" : "https://mutfaksirlari.com/wp-content/uploads/2015/02/mor_lahana_salatasi.jpg" 
+    },
+    {
+        "id" : "4",
+        "title" : "Yoğurtlu Semizotu Salatası",
+        "description" : "Yoğurtlu tadıyla iç ferahlatan salatalar sizin için de iftar sofrasının olmazsa olmazı ise semizotlu salatanın bu tarifi mutlaka ilginizi çekecektir. Semizotunun tüm faydasının yoğurtla birleştiği tarifi için buraya tıklayabilirsiniz.",
+        "price" : 50,
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7zW518j222_kwAFY0Gd3vk5p01mkfT7KCQ&usqp=CAU" 
+    },
+    {
+        "id" : "4",
+        "title" : "Roka Salatası ",
+        "description" : "Tarife özel sosunun yeşilliklere çok yakıştığı oldukça pratik hazırlanan salata tariflerinden biri! İnce ince doğramaya bile gerek yok! Birkaç dakikada hazırlayıp salata kaselerini süsleyeceğiniz tarifine buradan ulaşabilirsiniz.",
+        "price" : 50,
+        "imageUrl" : "https://www.kevserinmutfagi.com/wp-content/uploads/2015/06/kurutulmus_domatesli_roka_salatasi1.jpg" 
+    },
+]

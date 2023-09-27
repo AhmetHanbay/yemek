@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "0",
+        "title" : "Kremalı Mantar Çorbası",
+        "description" : "Ana vatanı Portekiz olan mantar, ülkemizde en çok Antalya'da yetiştirilir. Dünyanın birçok yerinde farklı çeşitleriyle üretilen bu besin, D vitamini bakımından çok zengindir.",
+        "price" : 50,
+        "imageUrl" : "https://i.lezzet.com.tr/images-xxlarge/kremali-mantar-corbasi-020756-456f6021-3cb4-44dd-99e0-de61ceed1f78" 
+    },
+    {
+        "id" : "1",
+        "title" : "Mercimek Çorbası",
+        "description" : "Soğuk kış günlerinde adeta bir hediye gibi değil midir, en yakın lokantanın mercimek çorbası...",
+        "price" : 50,
+        "imageUrl" : "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/10/lokanta-usulu-mercimek-corbasi-one-cikan-yeni.jpg" 
+    },
+    
+    {
+        "id" : "2",
+        "title" : "Közlenmiş Domates Çorbası ",
+        "description" : "Küçük makarna taneleri olarak bilinen şehriye; tek başına yenilen bir yemek değildir. Bunun yerine pilav ve çorbaların içinde tat vermesi için kullanılır.",
+        "price" : 50,
+        "imageUrl" : "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/11/kozlenmis-domates-corbasi-one-cikan.jpg" 
+    },
+    {
+        "id" : "3",
+        "title" : "Terbiyeli Şehriye Çorbası",
+        "description" : "Sabah kahvaltımızdan salatamıza, yemeklerimizden mezelerimize kadar en popüler sebzelerimizin başında geliyor domatesler. O kıpkırmızı, iç açan görüntüsünün altında bir sürü meziyeti var.",
+        "price" : 50,
+        "imageUrl" : "https://i.lezzet.com.tr/images-xxlarge-recipe/terbiyeli_sehriye_corbasi-728f61ca-da03-4e8b-b142-dddab803776b.jpg" 
+    },
+    {
+        "id" : "4",
+        "title" : "Soğan Çorbası",
+        "description" : " Fransız mutfağından dünyanın birçok yerine yayılan soğan çorbası, özellikle kış aylarında vücut direncini arttırmak için tüketilir.",
+        "price" : 50,
+        "imageUrl" : "https://i.lezzet.com.tr/images-xxlarge/sogan-corbasi-070342-f6fff079-7686-424a-87b6-3d407b4473de" 
+    },
+]

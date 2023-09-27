@@ -1,0 +1,66 @@
+[
+    {
+        "id" : "0",
+        "title" : "Künefe",
+        "description" : "Kadayıf; rendelenmiş buğday, fındık ve şerbetin bir araya getirilmesi ile hazırlanır. Kadayıftan hazırlanan künefe ise, peynir eklenmesi ile unutulmaz bir tada sahip olan diyet düşmanı bir tatlı haline gelir. Üzerine bir tutam beyaz dondurma ve bir tutam öğütülmüş Antep fıstığı serpilir ve yoğun tatlı kombinasyonu sayesinde eşsiz bir lezzet haline gelir. Şeker oranı olarak da baklavaya oldukça yakındır.",
+        "price" : 75,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/kunefe_e1215489-b0b3-4ddb-a17d-fc98078a7c6a.jpg?v=1672214209" 
+    },
+    {
+        "id" : "1",
+        "title" : "Un Helvası",
+        "description" : "Un, tereyağı, şeker ve su malzemelerinden elde edilen bu benzersiz tatlı da bayramlarda ve kandil gecelerinde dağıtılmaktadır. Kendine has tadı ile çok sevilen un helvasını yapmak oldukça kolaydır. Dondurma ile de tüketilebilir.",
+        "price" : 80,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/un-helvasi.jpg?v=1680697098" 
+    },
+    
+    {
+        "id" : "2",
+        "title" : "Kazandibi",
+        "description" : "1-2 avuç haşlanmış ve didiklenmiş tavuk, nişasta ve sütle hazırlanan benzersiz lezzetteki kazandibi tatlısı, Türk tatlıları arasında ilk sıralarda yer alır. Günümüzde bu özel tatlıyı tavuk eklemeden hazırlayan birçok yer vardır.",
+        "price" : 50,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/bir-tabak-kazandibi.jpg?v=1680697190" 
+    },
+    {
+        "id" : "3",
+        "title" : "Tulumba",
+        "description" : "Isırdığınızda ağzınızın yüksek oranda tatlı ile dolmasını istiyorsanız tulumba, yapılabilecek en iyi tercihlerden. Bu lezzetli sokak tatlısı, hamur toplarının derin yağda kızartılması ve henüz sıcakken şerbete batırılmasıyla yapılır. Bu sayede tatlıların dışı çıtır çıtır, içi ise yumuşak, yarı sıvı şekerli bir dokuya sahip olur. Şerbetle kaplı bir tatlı sizin için yeterince tatlı değilse, çikolata şuruplu tulumbayı deneyin.",
+        "price" : 60,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/tulumba.jpg?v=1672214292" 
+    },
+    {
+        "id" : "4",
+        "title" : "Muhallebi",
+        "description" : "Geleneksel Türk tatlıları arasında yer alan muhallebi, en eski tarihe sahip lezzetlerden birisidir. Pratik hazırlanışı ile en çok yapılan tatlılardan birisi olan muhallebi, birçok farklı tatlının da temelini oluşturur. Genelde puding gibi hazırlanan muhallebinin üstüne çeşitli meyveler, badem, ceviz ya da fıstık eklenerek daha lezzetli hale de gelebilir.",
+        "price" : 50,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/muhallebi_18bbc706-3a3b-4045-8642-441ebee26277.jpg?v=1672214314" 
+    },
+    {
+        "id" : "5",
+        "title" : "Şöbiyet",
+        "description" : "Şöbiyet, süt ve irmikten oluşan yufka tatlısıdır. İnce bir hamur üzerine fıstık ya da ceviz gibi kuruyemişler serpilerek pişirilir. İçine kaymak veya peynir gibi sütlü bir malzeme doldurulur ve genellikle bal ile servis edilir. Yapımı zahmetli olsa da muhteşem lezzeti sofralara damga vuruyor. Liva ustalarının uzun yıllara dayanan tecrübeleri ile hazırladığı fıstıklı kaymaklı şöbiyet, hafif yapısı ile hem yaz aylarında hem de kış aylarında sevilerek tüketiliyor.",
+        "price" : 50,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/sobiyet.jpg?v=1672214349" 
+    },
+    {
+        "id" : "6",
+        "title" : "Güllaç ",
+        "description" : "Tereyağlı ve kaşarlı enfes mantarlar, fırınlandığında kaşar örtüsü altında kayboluyor ve adeta bir lezzet bombasına dönüşüyor, tarif için linke tıklayın.",
+        "price" : 85,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/bir-tabak-gullac.jpg?v=1680697313" 
+    },
+    {
+        "id" : "7",
+        "title" : "Sütlac",
+        "description" : "Sütlaç, dünyanın her yerinde çok sevilir ve her ülkenin kendine özgü bir versiyonu vardır. Her ne kadar farklı versiyonlar olsa da geleneksel Türk tatlıları arasında yer alan fırın sütlaç, basit hazırlanma yöntemi ve eşsiz lezzetiyle, en sevilen tatlardan birisidir.",
+        "price" : 75,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/liva-firin-sutlac.jpg?v=1680697956" 
+    },
+    {
+        "id" : "8",
+        "title" : "Baklava",
+        "description" : "Geleneksel Osmanlı tatlıları söz konusu olduğunda akla gelen ilk seçenek olan baklava, en eski tarihe sahip lezzetlerden birisidir. Osmanlı İmparatorluğu döneminde geliştirilerek günümüzdeki halini alan baklava, birçok farklı kuru yemiş ile servis edilir. İnce şekilde açılan hamurun katmanlarının Antep fıstığı, ceviz ve fındık gibi kuru yemişlerle doldurularak yapılmasıyla elde edilen baklavanın son yıllarda süt ile yapılan bir alternatifi de ortaya çıkmıştır.",
+        "price" : 75,
+        "imageUrl" : "https://cdn.shopify.com/s/files/1/1259/6441/files/cevizli-baklava_e9d554ed-d508-4754-9930-e95a6b2aa2a5.jpg?v=1680697547" 
+    },
+]
